@@ -1,0 +1,5 @@
+/*
+Generator.c takes one mandatory argument which is the name of the .txt file. Generator.c will
+read all the lines from the given .txt file and send each line value to the first child process and then the
+other child processes will use the result obtained from the previous child Process as their input argument.
+*/
